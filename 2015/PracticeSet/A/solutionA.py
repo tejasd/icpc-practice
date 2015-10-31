@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # A - Bottled Up Feelings
 # ACM ECNA 2015 Practice Set
 # Tejas Deshpande
