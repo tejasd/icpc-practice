@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+# B - Mastering Mastermind
+# ACM ECNA 2015 Practice Set
+# Tejas Deshpande
+
 import collections
 
 def calculateR(code, guess):
