@@ -16,6 +16,7 @@ def calculateR(code, guess):
 			guess[i] = ''
 			r += 1
 
+	# If someone has a better way of doing this, do send me a pull request :)
 	updated_code = []
 	updated_guess = []
 	for code_element, guess_element in zip(code, guess):
